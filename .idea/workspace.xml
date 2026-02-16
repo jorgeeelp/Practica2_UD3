@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0b7ae63-24e5-4e65-a0f5-3a06c474aa35" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a0b7ae63-24e5-4e65-a0f5-3a06c474aa35" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +49,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="JPA.DatabaseSchemaImportDialog" value="8acdbbf2-02b0-4dba-a6d8-7c6ab5687dad" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
@@ -260,7 +259,7 @@
       <workItem from="1644600306138" duration="247000" />
       <workItem from="1644600650785" duration="371000" />
       <workItem from="1771263921497" duration="827000" />
-      <workItem from="1771265020424" duration="305000" />
+      <workItem from="1771265020424" duration="691000" />
     </task>
     <servers />
   </component>
