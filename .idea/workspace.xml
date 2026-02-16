@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0b7ae63-24e5-4e65-a0f5-3a06c474aa35" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="hibernate-configuration-5.2" />
+        <option value="hibernate-main-5.2" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>equipoJugador</find>
+      <find>vista.dcbmEquipoLocal.getSelectedItem()</find>
+      <find>index</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1Y57t4FyfTKuOXN5I4vfwdgFhCL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JPA.DatabaseSchemaImportDialog" value="8acdbbf2-02b0-4dba-a6d8-7c6ab5687dad" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/mysql-connector-java-5.1.46.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.fvaldeon.ligafutbol.gui" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jorge\Downloads\Liga_futbol\lib" />
+      <recent name="C:\Users\Fer\IdeaProjects\Liga_futbol\lib" />
+      <recent name="C:\Users\Fer\IdeaProjects\Liga_futbol\src\com\fvaldeon\ligafutbol\base" />
+      <recent name="C:\Users\Profesor\IdeaProjects\Liga_futbol\lib" />
+      <recent name="C:\Users\Profesor\IdeaProjects\Liga_futbol\src\com\fvaldeon\ligafutbol\base" />
+    </key>
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="com.fvaldeon.ligafutbol.base" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Fer\IdeaProjects\Liga_futbol\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Liga_futbol" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="grailsApplicationRoot" value="" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0b7ae63-24e5-4e65-a0f5-3a06c474aa35" name="Default" comment="" />
+      <created>1516345693236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516345693236</updated>
+      <workItem from="1516345694485" duration="6590000" />
+      <workItem from="1516699224510" duration="861000" />
+      <workItem from="1516859710574" duration="3424000" />
+      <workItem from="1517308297758" duration="62313000" />
+      <workItem from="1517710536659" duration="44063000" />
+      <workItem from="1517754779092" duration="4590000" />
+      <workItem from="1517926572626" duration="1004000" />
+      <workItem from="1517928147231" duration="3796000" />
+      <workItem from="1518031697709" duration="58000" />
+      <workItem from="1518031771492" duration="2477000" />
+      <workItem from="1524846832409" duration="47000" />
+      <workItem from="1526066552594" duration="29000" />
+      <workItem from="1526066592632" duration="1344000" />
+      <workItem from="1542800506589" duration="164000" />
+      <workItem from="1543607893423" duration="2643000" />
+      <workItem from="1548169210747" duration="1124000" />
+      <workItem from="1548173633414" duration="507000" />
+      <workItem from="1548222559191" duration="41000" />
+      <workItem from="1548222984105" duration="1404000" />
+      <workItem from="1548855660719" duration="1219000" />
+      <workItem from="1549193363416" duration="1306000" />
+      <workItem from="1549205422152" duration="500000" />
+      <workItem from="1550588560425" duration="3896000" />
+      <workItem from="1582220821467" duration="129000" />
+      <workItem from="1644600306138" duration="247000" />
+      <workItem from="1644600650785" duration="371000" />
+      <workItem from="1771263921497" duration="827000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="57" key="FileChooserDialogImpl" timestamp="1644601023320">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="57" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1644601023320" />
+    <state width="1367" height="142" key="GridCell.Tab.0.bottom" timestamp="1644601025613">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="142" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1644601025613" />
+    <state width="1367" height="142" key="GridCell.Tab.0.center" timestamp="1644601025613">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="142" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1644601025613" />
+    <state width="1367" height="142" key="GridCell.Tab.0.left" timestamp="1644601025613">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="142" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1644601025613" />
+    <state width="1367" height="142" key="GridCell.Tab.0.right" timestamp="1644601025613">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="142" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1644601025613" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
